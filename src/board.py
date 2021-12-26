@@ -1,5 +1,5 @@
 import pygame
-from src.move import Move
+from move import Move
 from token import Token
 
 class Board:
